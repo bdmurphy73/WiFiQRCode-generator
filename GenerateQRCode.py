@@ -48,8 +48,11 @@ draw = ImageDraw.Draw(new_img)
 myFont = ImageFont.truetype('\windows\fonts\cour.ttf', 35)
 
 # Add text with the defined font style
-# Put the text at 90 pixels from the bottom of the image. Color is black.
+# Put the SSID at 90 pixels from the bottom of the image. Color is black.
+# Put the password at 45 pixels from the bottom
+# A guest can read and type in the text if the scan doesn't work.
 draw.text((30, (new_img.height - 90)), myssid, font=myFont, fill=(0,0,0))
+draw.text((30, (new_img.height - 45)), mypasswd, font=myFont, fill=(0,0,0))
 
 # Save the modified image
 new_img.save(imagefile)
