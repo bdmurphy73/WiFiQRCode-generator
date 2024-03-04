@@ -10,7 +10,7 @@ The QR Code includes the SSID or network name and the password. Scan it and your
 </p>
 
 <h2> Social Media and Website</h2>
-   <a img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />https://www.linkedin.com/in/bryan-murphy</a>
+   <a img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" href=https://www.linkedin.com/in/bryan-murphy>Murphy</a>
 
           
 
