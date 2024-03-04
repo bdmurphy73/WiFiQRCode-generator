@@ -13,9 +13,9 @@ import wifi_qrcode_generator.generator
 from PIL import Image, ImageDraw, ImageFont
 
 #Set your variables. They are all in one spot to make it easier
-myssid = 'BDMurphyGuestWiFi'
-mypasswd = 'bdM#WiFi$Password%'
-imagefile = 'bdmguestwifiQrCode.png'
+myssid = 'GuestWi-Fi'
+mypasswd = 'LongPassword'
+imagefile = 'ExampleWiFiQRCode.png'
 
 #Generate the QRCode of the WiFi login
 qr_code = wifi_qrcode_generator.generator.wifi_qrcode(
