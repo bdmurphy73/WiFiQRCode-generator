@@ -1,6 +1,6 @@
 This Python script will create a QR Code to provide a simple method to get your phone or tablet onto a Wi-Fi network.
 
-Copyright (c) 2009, Bryan Murphy
+Copyright (c) 2024, Bryan Murphy
 
 license: GNU LGPL
 
