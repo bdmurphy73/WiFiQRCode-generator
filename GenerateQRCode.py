@@ -1,5 +1,12 @@
 #!/usr/bin/env python3
-# Published by B.D. Murphy @ 2024
+#  Copyright (c) 2024, Bryan Murphy
+#
+#  license: GNU LGPL
+#
+#  This library is free software; you can redistribute it and/or
+#  modify it under the terms of the GNU Lesser General Public
+#  License as published by the Free Software Foundation; either
+#  version 2.1 of the License, or (at your option) any later version.
 # This script can be used to create a QR code that users can scan to have their device connect to a WiFi network.
 # It requires user intput below for the network SSID, password, and output file name.
 # The generated QR code will also have text below so users can type in the information if their device won't scan.
