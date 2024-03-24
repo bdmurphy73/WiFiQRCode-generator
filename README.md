@@ -1,7 +1,19 @@
 This Python script will create a QR Code to provide a simple method to get your phone or tablet onto a Wi-Fi network.
 
-The QR Code includes the SSID or network name and the password. Scan it and your phone will try and connect to the Wi-Fi network. If the network is close and the password matches your device will connect.
+# Published by B.D. Murphy @ 2024
+# This script can be used to create a QR code that users can scan to have their device connect to a WiFi network.
+# It requires user intput below for the network SSID, password, and output file name.
+# The generated QR code will also have text below so users can type in the information if their device won't scan.
+# The module to create the QR code can be found: https://pypi.org/project/wifi-qrcode-generator/
+# Dependencies are:
+#   wifi_qrcode_generator.generator
+#   pillow
+# install with: pip install wifi_qrcode_generator.generator
+# Install with: pip install pillow
 
+# You are free to share and use
+
+# I use this to generate the QRCode for my guest network. Guests who are visiting can simply scan the QRCode to get WiFi access.
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
