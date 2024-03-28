@@ -7,9 +7,9 @@ license: GNU LGPL
 
 This script can be used to create a QR code that users can scan to have their device connect to a WiFi network.
 It requires user input below for:
-# network SSID 
-# password 
-# output file name.
+### network SSID 
+### password 
+### output file name.
 
 The generated QR code will also have text below so users can type in the information if their device won't scan.
 The module to create the QR code can be found: https://pypi.org/project/wifi-qrcode-generator/
