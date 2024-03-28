@@ -13,7 +13,7 @@ It requires user input below for:
 
 The generated QR code will also have text below so users can type in the information if their device won't scan.
 The module to create the QR code can be found: https://pypi.org/project/wifi-qrcode-generator/
-Dependencies are: - wifi_qrcode_generator.generator and pillow <be>
+Dependencies are: - wifi_qrcode_generator.generator and pillow <br>
 install with: pip install wifi_qrcode_generator.generator<br>
 Install with: pip install pillow
 
