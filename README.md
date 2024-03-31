@@ -26,7 +26,7 @@ I use this to generate the QRCode for my guest network. Guests who are visiting 
 
 
 
-<img alt="Guest WiFi" width="200" height="200" src="https://github.com/bdmurphy73/WiFiQRCode-generator/blob/main/ExampleWiFiQRCode.png">Guest WiFi</a>
+<img alt="Guest WiFi" width="200" height="200" src="https://github.com/bdmurphy73/WiFiQRCode-generator/blob/main/ExampleWiFiQRCode.png">
 
 Enjoy
 
