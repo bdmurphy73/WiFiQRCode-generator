@@ -24,6 +24,10 @@ I use this to generate the QRCode for my guest network. Guests who are visiting 
 1) You are giving the online system your WiFi password. They keep it and it can be hacked.
 2) Some of these online tools only generate a tiny URL. The tiny URL links back to their site so every time someone scans the code the website gets information.
 
+
+
+<img alt="Guest WiFi" width="100" height="140" src="https://github.com/bdmurphy73/bdmurphy73/blob/main/FiveStarPH_400x600.png">Pandemic Hacker</a>
+
 Enjoy
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
